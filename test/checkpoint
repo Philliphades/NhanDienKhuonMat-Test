@@ -1,0 +1,2 @@
+model_checkpoint_path: "trainningData1.xml"
+all_model_checkpoint_paths: "trainningData1.xml"
